@@ -1,12 +1,8 @@
 # Markdown Cheat Sheet
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
 ## 기본 문법
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+모든 Markdown 애플리케이션에서 지원되는 기능들입니다.
 
 ### 제목 수준
 
@@ -24,7 +20,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### 인용문
 
-> blockquote
+> 하이큐브 좋아요
 
 ### 순서 있는 아이템들
 
@@ -56,7 +52,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ## 확장된 문법
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+이제 소개드릴 문법들은 모든 Markdown 애플리케이션에서 지원되지는 않을 수도 있습니다.
 
 ### 표
 
