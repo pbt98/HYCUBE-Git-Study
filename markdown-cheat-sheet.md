@@ -6,17 +6,17 @@
 
 ### 제목 수준
 
-# H1
-## H2
-### H3
+# 가장 큰 제목
+## 두번째로 큰 제목
+### 세번째로 큰 제목
 
-### Bold
+### 진하게 표시
 
-**bold text**
+**보통 어떤 내용을 강조하고 싶을때 사용합니다.**
 
-### Italic
+### 이텔릭체
 
-*italicized text*
+*보통 어떤 작업이나 책의 제목을 표기할때 사용합니다. 가끔 강조를 위해서도 사용하지만 드뭅니다.*
 
 ### 인용문
 
@@ -24,15 +24,15 @@
 
 ### 순서 있는 아이템들
 
-1. First item
-2. Second item
-3. Third item
+1. 첫번째 아이템
+2. 두번째 아이템
+3. 세번째 아이템
 
 ### 순서 없는 아이템들
 
-- First item
-- Second item
-- Third item
+- 첫번째 아이템
+- 두번째 아이템
+- 세번째 아이템
 
 ### 짧은 코드 넣기
 
@@ -44,11 +44,11 @@
 
 ### 링크
 
-[title](https://www.example.com)
+[누르지 마시오](https://computer.hanyang.ac.kr)
 
 ### 이미지 넣기
 
-![alt text](image.jpg)
+![이미지임](image.jpg)
 
 ## 확장된 문법
 
@@ -65,9 +65,9 @@
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Sungbin",
+  "lastName": "Park",
+  "age": 23
 }
 ```
 
@@ -77,21 +77,21 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-### Heading ID
+### 제목 ID 지정
 
-### My Great Heading {#custom-id}
+### 내 대단한 제목 {#커스텀아이디}
 
 ### 정의 목록
 
-term
-: definition
+용어
+: 정의
 
 ### 취소선
 
-~~The world is flat.~~
+~~나무위키에서 자주 쓰죠?~~
 
 ### 할 일
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] 2일차 스터디 준비하기
+- [ ] 3일차 스터디 준비하기
+- [ ] 연구실 발표자료 만들기
